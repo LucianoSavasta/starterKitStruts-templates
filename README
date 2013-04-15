@@ -1,0 +1,10 @@
+Maven archetype to create Webapp with :
+- Struts 2 with generic configuration
+- JPA 2 annotation
+- Stateless
+- Full I18N
+- Twitter bootstrap
+- With a little REST spirit in 
+
+To launch mvn archetype:generate 
+See : http://techasite.blogspot.fr/2012/10/struts-2-jpa-2-html5-bootstrap-twitter.html
